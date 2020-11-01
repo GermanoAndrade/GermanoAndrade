@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 + This repository has the purpose of maintaining personal projects, class notes and exercises.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=GermanoAndrade&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoAndrade&theme=tokyonight&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoAndrade&theme=tokyonight&layout=compact&count_private=true)  
 📫: [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanoandrade/) 
 <!--If you are looking for the same, maybe you have to visit this repo https://github.com/anuraghazra/github-readme-stats
 -->
