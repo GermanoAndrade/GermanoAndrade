@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="300px" width="250px" top= "0 px" align="right">
 
-
-
 ### Hi there 👋
 ---
 
@@ -24,9 +22,7 @@ Here are some ideas to get you started:
 + This repository has the purpose of maintaining personal projects, class notes and exercises.<br/><br/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=GermanoAndrade&show_icons=true&theme=tokyonight&icon_color=70a5fd&text_color=fff&custom_title=My+Github+Stats&count_private=true&bg_color=45,1a1b27,a318d6)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoAndrade&theme=tokyonight&text_color=fff&layout=compact&count_private=true&bg_color=-45,a318d6,1a1b27)  
-
 📫: [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanoandrade/) 
 
 ![](https://komarev.com/ghpvc/?username=GermanoAndrade&color=a318d6&style=plastic)
