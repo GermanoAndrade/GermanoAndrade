@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=GermanoAndrade&color=a318d6&style=plastic)
 
-<!--If you are looking for the same, maybe you have to visit these repos https://github.com/anuraghazra/github-readme-stats and https://github.com/antonkomarev/github-profile-views-counter
+<!--If you are looking for the same, maybe you have to visit these repos https://github.com/anuraghazra/github-readme-stats and https://github.com/antonkomarev/github-profile-views-counter and https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
