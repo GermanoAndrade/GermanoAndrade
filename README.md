@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - 📚 I am currently studying to be a Data Scientist.
 
 + This repository has the purpose of maintaining personal projects, class notes and exercises.<br/><br/>
+<div>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GermanoAndrade&show_icons=true&theme=tokyonight&icon_color=70a5fd&text_color=fff&custom_title=My+Github+Stats&count_private=true&bg_color=45,1a1b27,a318d6"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoAndrade&theme=tokyonight&text_color=fff&layout=compact&langs_count=16&bg_color=-45,a318d6,1a1b27"/>  
+</div>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=GermanoAndrade&show_icons=true&theme=tokyonight&icon_color=70a5fd&text_color=fff&custom_title=My+Github+Stats&count_private=true&bg_color=45,1a1b27,a318d6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoAndrade&theme=tokyonight&text_color=fff&layout=compact&count_private=true&bg_color=-45,a318d6,1a1b27)  
 📫: [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanoandrade/) 
 
 ![](https://komarev.com/ghpvc/?username=GermanoAndrade&color=a318d6&style=plastic)
 
-<!--If you are looking for the same, maybe you have to visit these repos https://github.com/anuraghazra/github-readme-stats and https://github.com/antonkomarev/github-profile-views-counter and https://github.com/alexandresanlim/Badges4-README.md-Profile
+<!--If you are looking for the same, maybe you have to visit these repos https://github.com/anuraghazra/github-readme-stats and https://github.com/antonkomarev/github-profile-views-counter and https://github.com/alexandresanlim/Badges4-README.md-Profile and https://github.com/devicons/devicon/tree/master/icons
 -->
 
